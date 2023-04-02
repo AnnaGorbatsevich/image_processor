@@ -1,4 +1,5 @@
 #include "BMPImage.h"
+#include <algorithm>
 
 #include <iostream>
 #include <cstring>
